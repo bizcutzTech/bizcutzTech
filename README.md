@@ -2,7 +2,7 @@
 - 👀 I’m interested in Operating Systems, and the development of Software.
 - 🌱 I’m currently learning Digital Production, Design and Development.
 - 💞️ I’m looking to collaborate on nothing for now.
-- 📫 How to reach me: ravenkir2007@gmail.com
+- 📫 How to reach me: raven@bizcutz.co.uk
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I started programming at the age of 11!
 <!---
